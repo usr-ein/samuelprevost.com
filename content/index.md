@@ -84,8 +84,7 @@ I’m a seasoned developer with extensive experience in **project management**, 
 
 # Contact
 
-- **Email**: [samuel.prevost@pm.me](mailto:samuel.prevost@pm.me)  
-- **Phone**: [+33 6 95 27 61 44](tel:+33695276144)  
+- **Email**: [samuelprevostcv@e1n.sh](mailto:samuelprevostcv@e1n.sh)  
 - **Location**: Amsterdam, NL  
 - **LinkedIn**: [linkedin.com/in/samuel-prevost](https://www.linkedin.com/in/samuel-prevost/)  
 - **GitHub**: [usr-ein](https://github.com/usr-ein)  
